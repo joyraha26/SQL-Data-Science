@@ -1,0 +1,24 @@
+Research Project:
+--------------------
+
+A docx file is uploaded in GitHub for the following prupose:
+1) Requirement documentation
+2) Assumptions
+3) Original data set description
+4) Normalized data set description
+5) SQL Queries:
+   a) DDL statements to primary and foreign keys
+   b) DML statements to solve each requirements
+   c) DDL statements to add and update the final db table
+
+GitHub Repo link - https://github.com/joyraha26/SQL-Data-Science
+1) Docs file -  for the above documentations and queries
+2) txt file - for google drive link
+3) rar file - for normalized data set in csv format
+4) rar file - for original data downloaded from dataworld.com set in csv format
+
+Google Drive link - https://drive.google.com/open?id=1NB51tAYLST5tka9D1BIXhThL4IvMmoDl
+1) accdb file
+- shared with - 
+Prateek Sir,
+Relationship Managers - Sonali mam and Pratika mam
